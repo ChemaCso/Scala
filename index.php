@@ -50,22 +50,22 @@
   </div>
   <div class="contenedor" id="animate">
       <div class="contenedor-infoInd">
-          <div class="info">
+          <div class="infoInd">
               <i class="fas fa-lightbulb"></i>
               <h3>Innovación</h3>
               <p>Creamos estrategias de negocios.</p>
           </div>
-          <div class="info">
+          <div class="infoInd">
               <i class="fas fa-map-marker-alt"></i>
               <h3>Asesoria</h3>
               <p>Asesoramos municipios.</p>
           </div>
-          <div class="info">
+          <div class="infoInd">
             <i class="fas fa-user-tie"></i>
               <h3>Desarrollo</h3>
               <p>Desarrollamos emprendedores y Pymes.</p>
           </div>
-          <div class="info">
+          <div class="infoInd">
               <i class="fas fa-chart-line"></i>
               <h3>Gestión</h3>
               <p>Gestionamos inversión pública y privada.</p>
