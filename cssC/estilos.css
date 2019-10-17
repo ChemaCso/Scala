@@ -114,7 +114,7 @@ float: right;
 
 #como-lo-hacemos h1{
   font-family: 'Poppins', serif;
-  font-weight: 700;  
+  font-weight: 700;
   font-size: 50px;
   font-weight: normal;
   text-align: center;
@@ -193,12 +193,12 @@ font-size: 33px;
 }
 
 #trabajos h1 {
-  font-size: 55px;
+  font-family: 'Poppins', serif;
+  font-size: 50px;
   font-weight: normal;
   text-align: center;
   padding-top: 35px;
   padding-bottom: 25px;
-  text-shadow: 2px 2px 4px gray;
 }
 
 #trabajos img{
