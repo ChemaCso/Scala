@@ -149,7 +149,37 @@ float: right;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    .contenedor-info{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 15vh 0 0 0;
+        /* background-color: aquamarine; */
+    }
 
+    .contenedor-infoInd .info{
+        margin: 0 20px 0 20px;
+        width: 20%;
+        height: 220px ;
+    }
+
+    .contenedor-infoInd .info h1{
+        font-family: 'Poppins', serif;
+        font-weight: 700;
+        font-size: 20px;
+        margin: 0;
+
+    }
+    .contenedor-infoInd .info i{
+    margin: 10px;
+    font-size: 33px;
+    }
+    .contenedor-infoInd .info p{
+        font-family: 'Poppins', serif;
+        font-weight: 300;
+        font-size: 16px;
+    }
 
 }
 

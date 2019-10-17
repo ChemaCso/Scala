@@ -49,7 +49,7 @@
       </div>
   </div>
   <div class="contenedor" id="animate">
-      <div class="contenedor-info">
+      <div class="contenedor-infoInd">
           <div class="info">
               <i class="fas fa-lightbulb"></i>
               <h3>Innovación</h3>
