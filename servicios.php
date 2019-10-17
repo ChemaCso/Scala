@@ -51,7 +51,8 @@
       <div class="contenedor-info1">
           <div class="info2">
               <i class="fas fa-cog"></i>
-              <h3>INGENIERÍA Y CALIDAD</h3>
+              <h3>INGENIERÍA Y</h3>
+              <h3>CALIDAD</h3>
           </div>
           <div class="info2">
               <i class="fas fa-briefcase"></i>
