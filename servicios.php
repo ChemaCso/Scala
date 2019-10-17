@@ -62,7 +62,7 @@
       <div class="contenedor-info1">
           <div class="info2">
             <i class="fas fa-mail-bulk"></i>
-              <h3>MERCADOTECNIA</h3>
+              <h3>MERCADOTECNIAA</h3>
           </div>
       </div>
   </div>
