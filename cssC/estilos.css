@@ -113,6 +113,8 @@ float: right;
 }
 
 #como-lo-hacemos h1{
+  font-family: 'Poppins', serif;
+  font-weight: 700;  
   font-size: 50px;
   font-weight: normal;
   text-align: center;
@@ -174,7 +176,7 @@ float: right;
 }
 .contenedor-infoInd .infoInd i{
 margin: 10px;
-font-size: 30px;
+font-size: 33px;
 }
 .contenedor-info .info p{
     font-family: 'Poppins', serif;
