@@ -3,6 +3,7 @@
 <title>ScalaNegocios</title>
 <head>
   <link rel="stylesheet" href="/cssC/estilos.css">
+  <link rel="stylesheet" href="/cssC/animate.css">
   <link rel="stylesheet" href="/css/style.css">
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700|Roboto:300,400,700&display=swap"
       rel="stylesheet">
@@ -26,8 +27,9 @@
 <div class="contenedor">
  <div class="contenedor-titulo">
    <div class="titulo">
-     <h1>TODO EMPIEZA CON</h1>
-     <h2>UNA "IDEA"</h2>
+     <h1 class="animated infinite shake">TODO EMPIEZA CON</h1>
+     <h2 class="animated infinite shake">UNA "IDEA"</h2>
+
      <!-- <a>VER MIS TRABAJOS</a> -->
     </div>
  </div>
