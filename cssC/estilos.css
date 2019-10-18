@@ -48,7 +48,7 @@ header .logo{
   color: #fff;
   margin-top: 295px;
   margin-bottom: 0;
-  animation-duration: 4s !important;
+  animation-duration: 3s !important;
   text-shadow: 2px 2px 4px black;
 }
 
@@ -58,7 +58,7 @@ header .logo{
   text-align: center;
   margin-top: -15;
   margin-bottom: 30px;
-  animation-duration: 4s !important;
+  animation-duration: 3s !important;
   text-shadow: 2px 2px 4px black;
 }
 
