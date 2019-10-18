@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-
+<title>ScalaNegocios</title>
 <head>
   <link rel="stylesheet" href="/cssC/estilos.css">
   <link rel="stylesheet" href="/css/style.css">
