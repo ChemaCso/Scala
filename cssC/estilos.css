@@ -100,17 +100,6 @@ header .logo{
   /* Hace que empiecen a la misma altura los textos, por ende los iconos empiezan justo a la misma altura. */
 }
 
-.contenedor-servicios .icono{
-float: right;
-}
-
-.contenedor-servicios .waves{
-  width: 100%;
-  /* Ocupa el ancho del 100% del div. */
-  position: absolute;
-  left: 0;
-  bottom: 0;
-}
 
 #como-lo-hacemos h1{
   font-family: 'Jomolhari', serif;
@@ -222,11 +211,10 @@ display: block !important;
   font-size: 59px !important;
 }
 
-
-
 .owl-nav button:hover {
   background: none !important;
 }
+
 
 #servicio{
 
