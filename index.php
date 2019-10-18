@@ -133,7 +133,7 @@ $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
       loop:true,
       autoplay:true,
-      autoplayTimeout:2000,
+      autoplayTimeout:1500,
       autoplayHoverPause:true,
       margin:50,
       nav:false,
