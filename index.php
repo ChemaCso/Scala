@@ -27,9 +27,8 @@
 <div class="contenedor">
  <div class="contenedor-titulo">
    <div class="titulo">
-     <h1 class="animated infinite shake">TODO EMPIEZA CON</h1>
-     <h2 class="animated infinite shake">UNA "IDEA"</h2>
-
+     <h1 class="animated infinite bounceInUp">TODO EMPIEZA CON</h1>
+     <h2 class="animated infinite bounceInUp">UNA "IDEA"</h2>
      <!-- <a>VER MIS TRABAJOS</a> -->
     </div>
  </div>
