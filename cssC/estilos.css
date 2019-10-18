@@ -113,7 +113,7 @@ float: right;
 }
 
 #como-lo-hacemos h1{
-  font-family: 'Poppins', serif;
+  font-family: 'Jomolhari', serif;
   font-weight: 700;
   font-size: 50px;
   font-weight: normal;
@@ -129,13 +129,14 @@ float: right;
 }
 
 #como-lo-hacemos h3{
+  font-family: 'Jomolhari', serif;
   font-size: 20px;
   color: #fff;
   text-shadow: 2px 2px 4px black;
 
 }
 #como-lo-hacemos p{
-  font-family: 'Roboto', serif;
+font-family: 'Jomolhari', serif;
     font-weight: 400;
     font-size: 20px;
     width: 80%;
