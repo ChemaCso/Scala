@@ -128,9 +128,9 @@ float: right;
   color: white;
 }
 
-}
+
 #como-lo-hacemos p{
-font-family: 'Jomolhari', serif;
+    font-family: 'Jomolhari', serif;
     font-weight: 400;
     font-size: 20px;
     width: 80%;
@@ -181,8 +181,6 @@ font-size: 33px;
     color: #fff;
 
 }
-
-
 
 
 #trabajos{
