@@ -9,6 +9,7 @@
   <script src="https://kit.fontawesome.com/d00b1f9a63.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Jomolhari&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="owl/owl.carousel.min.css">
   <link rel="stylesheet" href="owl/owl.theme.default.min.css">
 </head>
@@ -145,7 +146,7 @@ $(document).ready(function(){
               items:3
           },
           1000:{
-              items:5
+              items:4
           }
       }
   })
