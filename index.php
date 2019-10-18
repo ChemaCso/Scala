@@ -136,6 +136,7 @@ $(document).ready(function(){
       autoplayTimeout:3000,
       autoplayHoverPause:true,
       margin:50,
+      nav:false ,
       merge:true,
       responsive:{
           0:{
