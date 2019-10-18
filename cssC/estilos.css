@@ -128,11 +128,6 @@ float: right;
   color: white;
 }
 
-#como-lo-hacemos h3{
-  font-family: 'Jomolhari', serif;
-  font-size: 20px;
-  color: #fff;
-
 }
 #como-lo-hacemos p{
 font-family: 'Jomolhari', serif;
@@ -172,16 +167,19 @@ font-family: 'Jomolhari', serif;
     font-weight: 300;
     font-size: 20px;
     margin: 0;
+    color: #fff;
 
 }
 .contenedor-infoInd .infoInd i{
 margin: 10px;
 font-size: 33px;
 }
-.contenedor-info .info p{
-    font-family: 'Poppins', serif;
+.contenedor-infoInd .infoInd p{
+    font-family: 'Jomolhari', serif;
     font-weight: 300;
     font-size: 16px;
+    color: #fff;
+
 }
 
 
