@@ -174,7 +174,7 @@ font-size: 33px;
 
 #trabajos{
 
-  height: 440px;
+  height: 470px;
 }
 
 #trabajos h1 {
@@ -201,12 +201,6 @@ transition: .3s;
   text-align: center;
 }
 
-
-.owl-dots {
-    color: #5cb8ff !important;
-    margin: 0 46px !important;
-    font-size: 59px !important;
-  }
 
 #servicio{
 
