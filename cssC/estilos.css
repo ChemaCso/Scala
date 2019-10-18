@@ -202,9 +202,10 @@ transition: .3s;
 }
 
 
-.owl-nav button:hover {
+.owl-nav button {
   background: none !important;
 }
+
 
 
 #servicio{
