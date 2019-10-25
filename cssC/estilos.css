@@ -299,4 +299,13 @@ margin-top: 30px;
     font-size: 16px;
 }
 
+
+@media (max-width: 800px){
+  header{
+    height: 20vh;
+  }
+}
+
+
+
 /* Las flechas ya aparecen pero no se pueden modificar ni tampoco desaparecer los puntos, quizás cambiando el ,zip sí. */

@@ -10,5 +10,12 @@
                 </ul>
             </nav>
 </div>
-      
 
+<script>
+
+$(document).ready(function(){
+
+  
+})
+
+</script>

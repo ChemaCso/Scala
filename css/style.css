@@ -35,7 +35,7 @@ body h1, h2, h3, p{
     justify-content:space-between;
     position: relative;
     align-items: center;
-    
+
 }
 #contenedor-navBar .logo{
     margin: 10px;
@@ -51,7 +51,7 @@ body h1, h2, h3, p{
     font-size: 16px;
     margin-right: 50px;
     list-style: none;
-    
+
 
 }
 #contenedor-navBar a{
@@ -104,7 +104,7 @@ body h1, h2, h3, p{
     font-weight: 700;
     font-size: 20px;
     margin: 0;
-    
+
 }
 .contenedor-info .info i{
 margin: 10px;
@@ -120,7 +120,7 @@ font-size: 30px;
 footer .contenedor {
     color: #ffffff;
     /* position: relative; */
-    
+
 }
 footer{
     background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6)), url('/img/footer2.jpg');
@@ -142,7 +142,7 @@ footer .contenedor .eslogan h1 {
 
 footer .contenedor .contacto {
     display: flex;
-    justify-content:center; 
+    justify-content:center;
     margin: 1vh;
 }
 footer .contenedor .contacto .foot h2 {
@@ -240,7 +240,7 @@ main #proposito{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    color: black;    
+    color: black;
 
     /* centrado vertical de caja */
     display: flex;
@@ -249,7 +249,7 @@ main #proposito{
     justify-content: center;
 }
 #contenedor-propositos{
-    display: flex;   
+    display: flex;
     justify-content: space-around;
 }
 
@@ -266,7 +266,7 @@ main #proposito{
     font-size: 20px;
     width: 80%;
     text-align: center;
-    margin: auto; 
+    margin: auto;
 }
 .box{
     background: rgba(255, 255, 255, 0.5);
@@ -297,8 +297,9 @@ main #proposito{
         left: 0;
         height: 200px;
         background: #5cb8ff;
-        width: 100%;display: none;
-        
+        width: 100%;
+        display: none;
+
     }
     header ul{
         flex-direction: column;
@@ -306,6 +307,6 @@ main #proposito{
     }
     header ul li{
         margin-bottom: 2vh;
-        
+
     }
 }
