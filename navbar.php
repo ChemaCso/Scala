@@ -9,15 +9,17 @@
                     <li><a href="contacto.php">CONTACTO</a></li>
                 </ul>
             </nav>
+
+            <script>
+
+            $(document).ready(function(){
+              $('.menu-icon').click(function(){
+                $('header nav').slideDown();
+              })
+
+            })
+
+            </script>
+
+
 </div>
-
-<script>
-
-$(document).ready(function(){
-  $('.menu-icon').click(function(){
-    $('header nav').slideDown();
-  })
-
-})
-
-</script>
