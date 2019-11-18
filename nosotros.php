@@ -51,8 +51,6 @@
         require_once 'footer.php';
     ?>
     </footer>
-
-    <!-- <script src="/js/main.js"></script> -->
     <script>
     $(document).ready(function(){
       $('.menu-icon').click(function(){
@@ -60,6 +58,8 @@
       })
     })
     </script>
+    <!-- <script src="/js/main.js"></script> -->
+
 
 
 </body>

@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700|Roboto:300,400,700&display=swap"
         rel="stylesheet">
     <script src="https://kit.fontawesome.com/d00b1f9a63.js"></script>
+
 </head>
 
 <body>
@@ -54,8 +55,6 @@
         require_once 'footer.php';
         ?>
     </footer>
-
-    <!-- <script src="/js/main.js"></script> -->
     <script>
     $(document).ready(function(){
       $('.menu-icon').click(function(){
@@ -63,6 +62,8 @@
       })
     })
     </script>
+    <!-- <script src="/js/main.js"></script> -->
+
 
 </body>
 
