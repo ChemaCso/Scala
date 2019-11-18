@@ -156,6 +156,16 @@ $(document).ready(function(){
 
 </script>
 
+<script>
+
+$(document).ready(function(){
+  $('.menu-icon').click(function(){
+    $('header nav').slideToggle();
+  })
+
+})
+
+</script>
 
 
 </body>

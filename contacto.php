@@ -48,7 +48,7 @@
 
         </div>
     </header>
-    
+
     <footer>
     <?php
         require_once 'footer.php';
@@ -56,6 +56,14 @@
     </footer>
 
     <!-- <script src="/js/main.js"></script> -->
+    <script>
+    $(document).ready(function(){
+      $('.menu-icon').click(function(){
+        $('header nav').slideToggle();
+      })
+    })
+    </script>
+
 </body>
 
 </html>
