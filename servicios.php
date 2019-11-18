@@ -9,7 +9,7 @@
   <script src="https://kit.fontawesome.com/d00b1f9a63.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
-
+  <meta name="viewport" content="width=device-width,user-scalable=no">
 </head>
 
 
