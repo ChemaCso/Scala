@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css?family=Jomolhari&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="owl/owl.carousel.min.css">
   <link rel="stylesheet" href="owl/owl.theme.default.min.css">
-  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <meta name="viewport" content="width=device-width,user-scalable=no">
 </head>
 
 
@@ -21,19 +21,9 @@
 
 <header>
 
-  <div class="contenedor" id="contenedor-navBar">
-              <img class="logo" src="/img/ScalaBlanco.gif" alt="ScalaNegocios">
-              <i class="fas fa-bars" id="menu-icon"></i>
-              <nav>
-                  <ul>
-                      <li><a href="index.php">INICIO</a></li>
-                      <li><a href="nosotros.php">NOSOTROS</a></li>
-                      <li><a href="servicios.php">SERVICIOS</a></li>
-                      <li><a href="contacto.php">CONTACTO</a></li>
-                  </ul>
-              </nav>
-  </div>
-
+  <?php
+  require_once 'navbar.php';
+?>
 
 <div class="contenedor">
  <div class="contenedor-titulo">
@@ -165,18 +155,6 @@ $(document).ready(function(){
 });
 
 </script>
-
-<script>
-
-$(document).ready(function(){
-  $('.menu-icon').click(function(){
-    $('header nav').slideDown();
-  })
-
-})
-
-</script>
-
 
 
 
