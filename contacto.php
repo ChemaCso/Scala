@@ -11,12 +11,6 @@
         rel="stylesheet">
     <script src="https://kit.fontawesome.com/d00b1f9a63.js"></script>
 
-    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700|Roboto:300,400,700&display=swap"
-        rel="stylesheet">
-    <script src="https://kit.fontawesome.com/d00b1f9a63.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
-
 </head>
 
 <body>
@@ -61,6 +55,37 @@
         require_once 'footer.php';
         ?>
     </footer>
+    
+    <script
+    src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+    </script>
+    <script src="owl/owl.carousel.min.js"></script>
+    <script>
+    $(document).ready(function(){
+      $('.owl-carousel').owlCarousel({
+          loop:true,
+          autoplay:true,
+          autoplayTimeout:3000,
+          autoplayHoverPause:true,
+          margin:50,
+          nav:true,
+          merge:true,
+          responsive:{
+              0:{
+                  items:1
+              },
+              600:{
+                  items:3
+              },
+              1000:{
+                  items:3
+              }
+          }
+      })
+    });
+
+    </script>
+
     <script>
     $(document).ready(function(){
       $('.menu-icon').click(function(){
@@ -68,7 +93,6 @@
       })
     })
     </script>
-    <!-- <script src="/js/main.js"></script> -->
 
 
 </body>
