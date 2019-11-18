@@ -282,31 +282,38 @@ main #proposito{
 }
 
 /*-----------------ResponsiveDesign------------------------ */
-#menu-icon{
-    display: none;
+.menu-icon{
+  display: none;
 }
+
 @media (max-width: 800px){
-    #menu-icon{
-        display: block;
-        float: right;
-        font-size: 36px;
-    }
-    header nav{
-        position: absolute;
-        top: 85px;
-        left: 0;
-        height: 200px;
-        background: #5cb8ff;
-        width: 100%;
-        display: none;
 
-    }
-    header ul{
-        flex-direction: column;
 
-    }
-    header ul li{
-        margin-bottom: 2vh;
+.menu-icon{
+  display: block;
+  float: right;
+  width: 40px;
+  height: 35px;
+  margin-top: 15px;
+}
 
-    }
+header nav{
+  position: absolute;
+  top: 83px;
+  left: 0;
+  height: 268px;
+  background: #5cb8ff;
+  width: 100%;
+  display: none;
+}
+
+header nav ul{
+  flex-direction: column;
+}
+
+header nav ul li{
+    margin-bottom: 15px;
+
+}
+
 }
