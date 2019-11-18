@@ -51,6 +51,7 @@
         require_once 'footer.php';
     ?>
     </footer>
+
     <script>
     $(document).ready(function(){
       $('.menu-icon').click(function(){
