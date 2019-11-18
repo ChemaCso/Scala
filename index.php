@@ -160,7 +160,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $('.menu-icon').click(function(){
-    $('header nav').slideDown();
+    $('header nav').slideToggle();
   })
 
 })
