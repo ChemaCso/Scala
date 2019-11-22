@@ -126,7 +126,34 @@
 ?>
 </footer>
 
-
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+</script>
+<script src="owl/owl.carousel.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('.owl-carousel').owlCarousel({
+      loop:true,
+      autoplay:true,
+      autoplayTimeout:1500,
+      autoplayHoverPause:true,
+      margin:50,
+      nav:false,
+      merge:true,
+      responsive:{
+          0:{
+              items:1
+          },
+          600:{
+              items:3
+          },
+          1000:{
+              items:4
+          }
+      }
+  })
+});
+</script>
 
 </body>
 
