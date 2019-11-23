@@ -18,7 +18,7 @@
         <?php
         require_once 'navbar.php';
         ?>
-        <div class="contenedor">
+        <div class="contenedor-contacto">
             <div class="contenedor-title">
                 <div class="title">
                     <h1>Contáctanos</h1>

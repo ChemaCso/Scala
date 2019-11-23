@@ -6,7 +6,7 @@
                             <div class="foot">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <h2>DIRECCIÓN</h2>
-                                <p>Iguala de la Independencia.<br />Francisco Villa , #3 ,<br/>Campestre Altamira, 40080.</p>
+                                <p>Iguala de la Independencia. Francisco Villa , #3 ,Campestre Altamira, 40080.</p>
                             </div>
                             <div class="foot">
                                 <i class="fas fa-phone"></i>
