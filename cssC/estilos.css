@@ -1,5 +1,10 @@
 body{
-    margin: auto;
+  background: #fff;
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  padding: 0p;
+  /* Con el margin y padding eliminamos las orillas blancas */
+
 }
 
 .contenedor{
@@ -296,6 +301,11 @@ margin-top: 30px;
 
 
 @media (max-width: 800px){
+
+  body{
+      margin: auto;
+  }
+
 
 }
 
