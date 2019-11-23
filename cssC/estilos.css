@@ -1,12 +1,11 @@
 body{
-
-  font-family: 'Poppins', sans-serif;
   margin: auto;
+  font-family: 'Poppins', sans-serif;  
 }
 .contenedor{
   width: 90%;
   max-width: 1280px;
-  margin: auto; /* <! Margen automatico:> */
+  margin: auto;
 }
 
 header{
@@ -297,7 +296,6 @@ margin-top: 30px;
 
 
 @media (max-width: 800px){
-
 
 }
 
