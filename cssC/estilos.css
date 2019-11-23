@@ -298,16 +298,16 @@ margin-top: 30px;
 @media (max-width: 800px){
 
   .contenedor-titulo h1 {
-      font-size: 34px;
+      font-size: 34px !important;
       color: #fff;
-      margin-top: 414px;
-      margin-bottom: 6px;
+      margin-top: 414px !important;
+      margin-bottom: 6px !important;
       animation-duration: 3s !important;
       text-shadow: 2px 2px 4px black;
   }
 
   .contenedor-titulo h2 {
-      font-size: 33px;
+      font-size: 33px !important;
       color: #fff;
       text-align: center;
       margin-bottom: 67px;
