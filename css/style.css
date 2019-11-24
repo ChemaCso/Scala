@@ -386,6 +386,14 @@ footer .contenedor .foot {
     width: 90%;
     text-align: center;
 }
+
+#contenedor-propositos{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
 .box{
     background: rgba(255, 255, 255, 0.5);
     /* Shadow box */
@@ -393,8 +401,8 @@ footer .contenedor .foot {
     -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.75);
     /* --------------------- */
-    margin-bottom: 10px;
-    max-width: 300px;
+    margin: 20px 0 20px 0;
+    max-width: 400px;
     width: 100%;
     height: auto;
     border: 0px solid black;
