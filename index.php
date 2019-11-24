@@ -19,7 +19,7 @@
 
 <body>
 
-<header>
+<header id="index">
 
   <?php
   require_once 'navbar.php';
