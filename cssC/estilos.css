@@ -301,7 +301,7 @@ margin-top: 30px;
       font-size: 34px !important;
       color: #fff;
       margin-top: 230px !important;
-      margin-bottom: 2px !important;
+      margin-bottom: 1px !important;
       animation-duration: 3s !important;
       text-shadow: 2px 2px 4px black;
   }
@@ -314,6 +314,19 @@ margin-top: 30px;
       animation-duration: 3s !important;
       text-shadow: 2px 2px 4px black;
   }
+
+  #como-lo-hacemos h1{
+    font-family: 'Jomolhari', serif;
+    font-weight: 700;
+    font-size: 34px;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 25px;
+    color: #fff;
+    text-shadow: 2px 2px 4px black;
+  }
+
 
 
 }
