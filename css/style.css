@@ -394,6 +394,20 @@ footer .contenedor .foot {
     margin: 0;
 }
 
+#nosotros .contenedor-title h1{
+    font-family: 'Poppins', serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 2vh 0;
+}
+#nosotros .contenedor-title p {
+    font-family: 'Roboto', serif;
+    font-weight: 400;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+}
+
 .box{
     background: rgba(255, 255, 255, 0.5);
     /* Shadow box */
