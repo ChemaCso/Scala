@@ -281,6 +281,7 @@ margin-top: 30px;
 margin: 10px;
 font-size: 70px;
 margin-top: 30px;
+display:
 }
 
 .contenedor-info1 .info1 p{
@@ -300,7 +301,7 @@ margin-top: 30px;
   #index .contenedor-titulo h1 {
       font-size: 34px !important;
       color: #fff;
-      margin-top: 230px !important;
+      margin-top: 225px !important;
       margin-bottom: 1px !important;
       animation-duration: 3s !important;
       text-shadow: 2px 2px 4px black;
@@ -330,13 +331,42 @@ margin-top: 30px;
   #como-lo-hacemos p{
       font-family: 'Jomolhari', serif;
       font-weight: 400;
-      font-size: 16px;
+      font-size: 18px;
       width: 80%;
       text-align: center;
       margin: auto;
       margin-bottom: 30px;
       color: #fff;
   }
+
+  .contenedor-infoInd .infoInd{
+      margin: 0 20px 0 20px;
+      width: 20%;
+      height: 220px ;
+  }
+
+  .contenedor-infoInd .infoInd h3{
+      font-family: 'Jomolhari', serif;
+      font-weight: 300;
+      font-size: 16px;
+      margin: 0;
+      color: #fff;
+
+  }
+  .contenedor-infoInd .infoInd i{
+  margin: 10px;
+  font-size: 20px;
+  }
+
+  .contenedor-infoInd .infoInd p{
+      font-family: 'Jomolhari', serif;
+      font-weight: 300;
+      font-size: 16px;
+      color: #fff;
+      display: none;
+  }
+
+
 
 
 
