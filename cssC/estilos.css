@@ -336,7 +336,7 @@ display:
   }
 
   .contenedor-infoInd .infoInd{
-      margin: 0 20px 0 20px;
+      margin: 0 12px 0 12px;
       width: 20%;
       height: 220px ;
   }
@@ -344,14 +344,14 @@ display:
   .contenedor-infoInd .infoInd h3{
       font-family: 'Jomolhari', serif;
       font-weight: 300;
-      font-size: 16px;
+      font-size: 15px;
       margin: 0;
       color: #fff;
 
   }
   .contenedor-infoInd .infoInd i{
   margin: 10px;
-  font-size: 20px;
+  font-size: 25px;
   }
 
   .contenedor-infoInd .infoInd p{
