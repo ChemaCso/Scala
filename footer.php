@@ -6,19 +6,17 @@
                             <div class="foot">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <h2>DIRECCIÓN</h2>
-                                <p>Iguala de la Independencia. Francisco Villa , #3 ,Campestre Altamira, 40080.</p>
+                                <p>Bandera nacional Ext.35, Int. 3, Centro, Iguala.</p>
                             </div>
                             <div class="foot">
                                 <i class="fas fa-phone"></i>
                                 <h2>TELÉFONO</h2>
-                                <p>Teléfono: (733) 131 5180<br />
-                                    Celular: (733) 584 8869</p>
+                                <p>Teléfono: 7336883657 </p>
                             </div>
                             <div class="foot">
                                 <i class="fas fa-envelope"></i>
                                 <h2>CORREOS</h2>
-                                <p>scalanegocios@gmail.com,<br />
-                                    reolij@gmail.com</p>
+                                <p>contacto@scalanegocios.com</p>
                             </div>
                 </div>
                 <div class="redes">
