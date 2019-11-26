@@ -335,6 +335,15 @@ display:
       color: #fff;
   }
 
+  .contenedor-infoInd{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin: 13vh 0 0 0;
+      /* background-color: aquamarine; */
+  }
+
   .contenedor-infoInd .infoInd{
       margin: 0 12px 0 12px;
       width: 20%;
