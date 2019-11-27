@@ -386,6 +386,15 @@ display:
     padding-bottom: 25px;
   }
 
+  #servicio{
+      height: 100vh;
+      background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 1)),  url('/imagenes/servicios/servicio.png');
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+      color: white;
+  }
+
   #servicio .contenedor-servicio h1{
     font-size: 40px;
     color: #fff;
@@ -406,6 +415,75 @@ display:
       color: #fff;
 
   }
+
+
+  #ejemplos-servicios{
+      height: 95vh;
+      background: radial-gradient(rgba(255, 255, 255, 0.8), rgba(52, 52, 52, 1)),  url('/imagenes/como.jpg');
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+
+
+  }
+  #ejemplos-servicios .contenedor-info1{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin: 0vh 0 0 0;
+      /* background-color: aquamarine; */
+  }
+  #ejemplos-servicios  .contenedor-info1 .info1 {
+      margin: 0 20px 0 20px;
+      width: 30%;
+      height: 220px ;
+      margin-top: 30px;
+      margin-bottom: -15px;
+  }
+  #ejemplos-servicios .contenedor-info1 .info2 {
+      margin: 0 20px 0 20px;
+      width: 30%;
+      height: 220px ;
+      margin-bottom: -15px;
+  }
+
+  #ejemplos-servicios .contenedor-info1 .info1  h3{
+      font-family: 'Poppins', serif;
+      font-weight: 700;
+      font-size: 25px;
+      margin: 0;
+  }
+  #ejemplos-servicios .contenedor-info1 .info2  h3{
+      font-family: 'Poppins', serif;
+      font-weight: 700;
+      font-size: 25px;
+      margin: 0;
+  }
+  #ejemplos-servicios .contenedor-info1 .info1 i{
+  margin: 10px;
+  font-size: 70px;
+  margin-top: 30px;
+  }
+
+  #ejemplos-servicios .contenedor-info1 .info2 i{
+  margin: 10px;
+  font-size: 70px;
+  margin-top: 30px;
+  display:
+  }
+
+  #ejemplos-servicios .contenedor-info1 .info1 p{
+      font-family: 'Poppins', serif;
+      font-weight: 300;
+      font-size: 16px;
+  }
+  #ejemplos-servicios .contenedor-info1 .info2 p{
+      font-family: 'Poppins', serif;
+      font-weight: 300;
+      font-size: 16px;
+  }
+
 
 }
 
