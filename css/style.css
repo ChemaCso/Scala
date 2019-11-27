@@ -313,8 +313,19 @@ header nav ul{
   flex-direction: column;
 }
 
+#contenedor-navBar ul li{
+    font-family: 'Poppins', serif;
+    font-weight:300;
+    font-size: 18px;
+    margin-right: 50px;
+    list-style: none;
+
+
+}
+
 header nav ul li{
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 4px;
 
 }
 
