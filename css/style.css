@@ -299,6 +299,11 @@ main #proposito{
   margin-top: 15px;
 }
 
+#contenedor-navBar .logo{
+    margin-top: 16px;
+    width: 103px;
+}
+
 header nav{
   position: absolute;
   top: 80px;
