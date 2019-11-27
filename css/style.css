@@ -370,6 +370,7 @@ footer .contenedor .foot {
     font-weight: 700;
     font-size: 40px;
     margin: auto;
+    margin-top: -4px;
 }
 #contacto .contenedor-title h2 {
     font-family: 'Roboto', serif;
