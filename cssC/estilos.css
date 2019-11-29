@@ -436,14 +436,14 @@ display:
   }
   #ejemplos-servicios  .contenedor-info1 .info1 {
       margin: 0 20px 0 20px;
-      width: 30%;
+      width: 48%;
       height: 220px ;
       margin-top: 30px;
       margin-bottom: -15px;
   }
   #ejemplos-servicios .contenedor-info1 .info2 {
       margin: 0 20px 0 20px;
-      width: 30%;
+      width: 51%;
       height: 220px ;
       margin-bottom: -15px;
   }
@@ -457,7 +457,7 @@ display:
   #ejemplos-servicios .contenedor-info1 .info2  h3{
       font-family: 'Poppins', serif;
       font-weight: 700;
-      font-size: 25px;
+      font-size: 17px;
       margin: 0;
   }
   #ejemplos-servicios .contenedor-info1 .info1 i{
@@ -468,7 +468,7 @@ display:
 
   #ejemplos-servicios .contenedor-info1 .info2 i{
   margin: 10px;
-  font-size: 70px;
+  font-size: 60px;
   margin-top: 30px;
   display:
   }
