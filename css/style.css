@@ -282,6 +282,19 @@ main #proposito{
     border: 0px solid black;
     border-radius: 21px;
 }
+.appwhatsapp {
+  position: fixed;
+  right: 26px;
+  bottom: 100px;
+  width: 60px;
+  z-index: 1000;
+}
+
+.appwhatsapp img{
+  width: 100%;
+  height: auto;
+}
+
 
 /*-----------------ResponsiveDesign------------------------ */
 .menu-icon{

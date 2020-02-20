@@ -1,3 +1,7 @@
+<a class="appwhatsapp" href="https://api.whatsapp.com/send?phone=7331413686&text=¡Hola!&nbsp;Me&nbsp;gustaría&nbsp;conocer&nbsp;más&nbsp;sobre&nbsp;ScalaNegocios">
+<img src="image/iconwhatsapp.png" alt="whatsappm">
+</a>
+
 <div class="contenedor">
                 <div class="eslogan">
                     <h1>Todo comienza con una "Idea"</h1>
