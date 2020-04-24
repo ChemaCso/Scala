@@ -28,7 +28,7 @@
 <div class="contenedor">
  <div class="contenedor-titulo">
    <div class="titulo">
-     <h1 class="animated bounceInUp slow delay-1s">TODO EMPIEZA CON</h1>
+     <h1 class="animated bounceInUp slow delay-1s">TOnDO EMPIEZA CON</h1>
      <h2 class="animated bounceInUp slow delay-1s">UNA "IDEA"</h2>
      <!-- <a>VER MIS TRABAJOS</a> -->
     </div>
