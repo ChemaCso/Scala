@@ -28,7 +28,7 @@
 <div class="contenedor">
  <div class="contenedor-titulo">
    <div class="titulo">
-     <h1 class="animated bounceInUp slow delay-1s">TOnDO EMPIEZA CON</h1>
+     <h1 class="animated bounceInUp slow delay-1s">TODO EMPIEZA CON</h1>
      <h2 class="animated bounceInUp slow delay-1s">UNA "IDEA"</h2>
      <!-- <a>VER MIS TRABAJOS</a> -->
     </div>
@@ -80,7 +80,7 @@
 
 
 
-<section id="trabajos">
+/*<section id="trabajos">
   <div class="contenedor">
     <h1>Nuestros clientes</h1>
     <div class="contenedor-trabajos owl-carousel owl-theme">
@@ -116,7 +116,8 @@
 
       </div>
   </div>
-</secton>
+</secton> */
+
 
 </main>
 
