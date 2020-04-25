@@ -119,13 +119,13 @@
 
 <div class="wrapper">
   <div>
-    <img1 src="imagenes/malinaltepec.jpg">
-    <img1 src="imagenes/tetipac.png">
-    <img1 src="imagenes/apaxtla.jpg">
-    <img1 src="imagenes/sabrosur.png">
-    <img1 src="imagenes/fertipoch.png">
-    <img1 src="imagenes/tepecoa.png">
-    <img1 src="imagenes/copalillo.png">
+    <imga src="imagenes/malinaltepec.jpg">
+    <imga src="imagenes/tetipac.png">
+    <imga src="imagenes/apaxtla.jpg">
+    <imga src="imagenes/sabrosur.png">
+    <imga src="imagenes/fertipoch.png">
+    <imga src="imagenes/tepecoa.png">
+    <imga src="imagenes/copalillo.png">
   </div>
 </div>
 
