@@ -117,17 +117,17 @@
   </div>
 </secton> -->
 
-<!-- <div class="wrapper">
+<div class="wrapper">
   <div>
-    <img src="imagenes/malinaltepec.jpg">
-    <img src="imagenes/tetipac.png">
-    <img src="imagenes/apaxtla.jpg">
-    <img src="imagenes/sabrosur.png">
-    <img src="imagenes/fertipoch.png">
-    <img src="imagenes/tepecoa.png">
-    <img src="imagenes/copalillo.png">
+    <img1 src="imagenes/malinaltepec.jpg">
+    <img1 src="imagenes/tetipac.png">
+    <img1 src="imagenes/apaxtla.jpg">
+    <img1 src="imagenes/sabrosur.png">
+    <img1 src="imagenes/fertipoch.png">
+    <img1 src="imagenes/tepecoa.png">
+    <img1 src="imagenes/copalillo.png">
   </div>
-</div> -->
+</div>
 
 
 </main>
