@@ -191,7 +191,7 @@ transition: .3s;
     left: 0;
     right: 0;
     width: 778px;
-    height: 287px;
+    height: 415px;
 }
 
 .wrapper img {
@@ -204,8 +204,7 @@ transition: .3s;
   font-size: 50px;
   font-weight: 300;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 25px;
+
 }
 
 
