@@ -195,17 +195,14 @@ transition: .3s;
    left: 0;
    right: 0;
 }
-.wrapper div {
-    /* cualquier altura mayor que el total de sumar la anchura de las img */
+/* .wrapper div {
     width:330px;
 
-    /* para evitar el margen superior de la primera fila */
     margin-top:-10px;
-}
+} */
 img {
     width:100px;
     height:75px;
-    float:left;
     margin:10px 10px 0 0;
 }
 
