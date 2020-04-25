@@ -154,7 +154,7 @@ font-size: 33px;
     font-size: 16px;
     color: #fff;
 }
-
+/*
 
 #trabajos{
 
@@ -175,7 +175,7 @@ font-size: 33px;
   transition: .2s;
 }
 
-/* el hover es para cuando se pasa el mouse por encima. */
+ el hover es para cuando se pasa el mouse por encima.
 #trabajos img:hover {
 transform: scale(1.1);
 transition: .3s;
@@ -183,7 +183,7 @@ transition: .3s;
 
 #trabajos p {
   text-align: center;
-}
+} */
 
 .wrapper {
     overflow:hidden;
@@ -194,12 +194,12 @@ transition: .3s;
     height: 287px;
 }
 
-.wrapper .img {
+.wrapper img {
     width:138px;
     height:119px;
     margin:10px 10px 0 0;
 }
-#wrapper .img {
+#wrapper img {
     width:138px;
     height:119px;
     margin:10px 10px 0 0;
