@@ -117,7 +117,7 @@
   </div>
 </secton> -->
 
-<div class="wrapper">
+<!-- <div class="wrapper">
   <div>
     <img src="imagenes/malinaltepec.jpg">
     <img src="imagenes/tetipac.png">
@@ -127,7 +127,7 @@
     <img src="imagenes/tepecoa.png">
     <img src="imagenes/copalillo.png">
   </div>
-</div>
+</div> -->
 
 
 </main>
