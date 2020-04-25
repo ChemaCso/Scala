@@ -79,7 +79,7 @@
 
 
 
-<section id="trabajos">
+<!-- <section id="trabajos">
   <div class="contenedor">
     <h1>Nuestros clientes</h1>
     <div class="contenedor-trabajos owl-carousel owl-theme">
@@ -115,13 +115,13 @@
 
       </div>
   </div>
-</secton>
-<!--
+</secton> -->
+
 <div class="wrapper">
   <div>
-    <img src="imagenes/tepecoa.png"><img src="imagenes/copalillo.png"><img src="imagenes/tepecoa.png"><img src="imagenes/tetipac.png"><img src="imagenes/apaxtla.jpg"><img src="imagenes/sabrosur.png">
+    <img src="imagenes/copalillo.png"><img src="imagenes/tetipac.png"><img src="imagenes/apaxtla.jpg"><img src="imagenes/sabrosur.png">
   </div>
-</div> -->
+</div>
 
 
 </main>

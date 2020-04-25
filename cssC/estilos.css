@@ -185,15 +185,23 @@ transition: .3s;
   text-align: center;
 }
 
-/* .wrapper {
+.wrapper {
     overflow:hidden;
     width:320px;
 }
+
+.wrapper{
+   position:absolute;
+   margin: 0 auto;
+   left: 0;
+   right: 0;
+   width:200px;
+}
 .wrapper div {
-    cualquier altura mayor que el total de sumar la anchura de las img
+    /* cualquier altura mayor que el total de sumar la anchura de las img */
     width:330px;
 
-    para evitar el margen superior de la primera fila
+    /* para evitar el margen superior de la primera fila */
     margin-top:-10px;
 }
 img {
@@ -201,7 +209,7 @@ img {
     height:75px;
     float:left;
     margin:10px 10px 0 0;
-} */
+}
 
 
 
