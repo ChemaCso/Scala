@@ -118,6 +118,7 @@
 </secton> -->
 
 <div class="wrapper">
+    <h1>Nuestros clientes</h1>
   <div>
     <img src="imagenes/malinaltepec.jpg">
     <img src="imagenes/tetipac.png">
