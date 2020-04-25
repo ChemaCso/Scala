@@ -119,7 +119,7 @@
 
 <div class="wrapper">
   <div>
-    <img src="imagenes/copalillo.png"><img src="imagenes/tetipac.png"><img src="imagenes/apaxtla.jpg"><img src="imagenes/sabrosur.png">
+    <img src="imagenes/copalillo.png"><img src="imagenes/tetipac.png"><img src="imagenes/apaxtla.jpg"><img src="imagenes/sabrosur.png"><img src="imagenes/fertipoch.png"><img src="imagenes/malinaltepec.jpg">
   </div>
 </div>
 

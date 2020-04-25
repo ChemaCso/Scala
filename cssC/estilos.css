@@ -191,11 +191,9 @@ transition: .3s;
 }
 
 .wrapper{
-   position:absolute;
    margin: 0 auto;
    left: 0;
    right: 0;
-   width:200px;
 }
 .wrapper div {
     /* cualquier altura mayor que el total de sumar la anchura de las img */
