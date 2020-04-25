@@ -187,22 +187,22 @@ transition: .3s;
 
 .wrapper {
     overflow:hidden;
-    width:320px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 778px;
+    height: 287px;
 }
 
-.wrapper{
-   margin: 0 auto;
-   left: 0;
-   right: 0;
-}
+
 /* .wrapper div {
     width:330px;
 
     margin-top:-10px;
 } */
 img {
-    width:100px;
-    height:75px;
+    width:138px;
+    height:119px;
     margin:10px 10px 0 0;
 }
 
